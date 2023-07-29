@@ -24,4 +24,4 @@ Codewars member Since 29th Jul 2023
 [![trophy](https://github-profile-trophy.vercel.app/?username=agx-r&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
