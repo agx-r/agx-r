@@ -21,4 +21,4 @@ Codewars member Since 29th Jul 2023
 
 ------------------
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=agx-r&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=agx-r&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
