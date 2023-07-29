@@ -11,9 +11,10 @@ Member Since 29th Jul 2023
 
 ------------------
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=agx-r)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agx-r&theme=moonlight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=moonlight)
 
 ------------------
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agx-r&theme=moonlight)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=agx-r)](https://github.com/ryo-ma/github-profile-trophy)
