@@ -15,5 +15,5 @@ Member Since 29th Jul 2023
 
 ------------------
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agx-r&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agx-r&theme=moonlight)
 
