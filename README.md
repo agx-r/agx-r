@@ -7,7 +7,7 @@
 
 [![codewars](https://www.codewars.com/users/agx-r/badges/large)](https://www.codewars.com/users/agx-r)
 
-Member Since 29th Jul 2023
+Codewars member Since 29th Jul 2023
 
 ------------------
 
