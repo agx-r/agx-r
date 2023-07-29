@@ -3,7 +3,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=null-nick)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Stats
-<a href="https://github.com/null-nick/null-nick">
+<a href="https://github.com/agx-r/agx-r">
   <img align="center" src="https://github.com/agx-r/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /></a>
   
 <!---
