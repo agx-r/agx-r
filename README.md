@@ -7,13 +7,11 @@
 
 <details>
   <summary><b>Where to find me</b></summary>
-
+  <h1>
+  ![Static Badge](https://img.shields.io/badge/Telegram-agx?style=flat-square&logo=telegram&labelColor=%2326A5E4&color=%2326A5E4&link=t.me%2Fagx-r)\
+  ![Static Badge](https://img.shields.io/badge/Steam-agx?style=flat-square&logo=steam&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fagx-r)
   <h1>
     
-    ![Static Badge](https://img.shields.io/badge/Telegram-agx?style=flat-square&logo=telegram&labelColor=%2326A5E4&color=%2326A5E4&link=t.me%2Fagx-r)\
-    ![Static Badge](https://img.shields.io/badge/Steam-agx?style=flat-square&logo=steam&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fagx-r)
-    
-  </h1>
 
 
 </details>
