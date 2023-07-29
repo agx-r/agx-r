@@ -15,9 +15,9 @@ Member Since 29th Jul 2023
 
 ------------------
 
-[![AGX's GitHub stats](https://github-readme-stats.vercel.app/api?username=agx-r)](https://github.com/anuraghazra/github-readme-stats)
+[![AGX GitHub stats](https://github-readme-stats.vercel.app/api?username=agx-r)](https://github.com/anuraghazra/github-readme-stats)
 
-[![AGX's github activity graph](https://activity-graph.herokuapp.com/graph?username=agx-r)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AGX github activity graph](https://activity-graph.herokuapp.com/graph?username=agx-r)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agx-r)](https://github.com/anuraghazra/github-readme-stats)
 
