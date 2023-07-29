@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFF243C&lines=Hi+there+I'm+AGX)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=agx-r)
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 [![codewars](https://www.codewars.com/users/agx-r/badges/large)](https://www.codewars.com/users/agx-r)
 
