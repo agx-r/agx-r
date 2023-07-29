@@ -9,4 +9,4 @@
 [![codewars](https://www.codewars.com/users/agx-r/badges/large)](https://www.codewars.com/users/agx-r)
 
 
-[![AGX's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![AGX's GitHub stats](https://github-readme-stats.vercel.app/api?username=agx-r)](https://github.com/anuraghazra/github-readme-stats)
