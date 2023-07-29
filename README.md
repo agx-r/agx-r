@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=agx-r)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/agx-r/RNNRL-Agent)
 <!---
 [![AGX's GitHub stats](https://github-readme-stats.vercel.app/api?username=agx-r)](https://github.com/anuraghazra/github-readme-stats)
 --->
