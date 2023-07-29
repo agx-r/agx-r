@@ -1,16 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73131&background=28282889&center=true&vCenter=true&width=435&lines=Hi+there+I'm+AGX)](https://git.io/typing-svg)
 
-
-<details>
-  <summary><b>Where to find me</b></summary>
-  
-  ![Static Badge](https://img.shields.io/badge/Telegram-agx?style=flat-square&logo=telegram&labelColor=%2326A5E4&color=%2326A5E4&link=t.me%2Fagx-r)\
-  ![Static Badge](https://img.shields.io/badge/Steam-agx?style=flat-square&logo=steam&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fagx-r)
-   
-
-
-</details>
-
 ------------------
 
 [![codewars](https://www.codewars.com/users/agx-r/badges/large)](https://www.codewars.com/users/agx-r)
