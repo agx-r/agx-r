@@ -13,7 +13,7 @@ Member Since 29th Jul 2023
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agx-r&theme=moonlight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=moonlight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agx-r&theme=moonlight)
 
 ------------------
 
