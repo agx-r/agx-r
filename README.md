@@ -15,7 +15,5 @@ Member Since 29th Jul 2023
 
 ------------------
 
-[![AGX GitHub stats](https://github-readme-stats.vercel.app/api?username=agx-r)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agx-r)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agx-r&theme=solarized_dark)
 
