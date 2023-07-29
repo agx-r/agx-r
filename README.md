@@ -14,6 +14,8 @@ Codewars member Since 29th Jul 2023
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agx-r&theme=date_night)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agx-r&theme=date_night)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=date_night)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=date_night)
 
 ------------------
