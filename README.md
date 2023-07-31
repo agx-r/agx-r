@@ -6,6 +6,7 @@
     <summary>Where to find me</summary>
         <li><a href="t.me/agx-r">Telegram</a></li>
         <li><a href="steamcommunity.com/id/agx-r">Steam</a></li>
+        <li><a href="www.codewars.com/users/agx-r">Codewars</a></li>
 </details>
 
 ------------------
