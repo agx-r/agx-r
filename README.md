@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73131&background=28282889&center=true&vCenter=true&width=435&lines=Hi+there+I'm+AGX)](https://git.io/typing-svg)
 
-## About Me
-
-I am a passionate developer with a diverse range of projects under my belt. From building a Recurrent Neural Network (RNN) with reinforcement learning in C# to creating a simple bioinformatics tool for DNA sequence analysis, I love exploring various domains and technologies.
-
 ## Projects
 
 Here are some of my notable projects:
