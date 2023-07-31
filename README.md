@@ -2,6 +2,17 @@
 
 ------------------
 
+<details>
+    <summary>Where to find me</summary>
+    <ul>
+        <li><a href="test">Facebook</a></li>
+        <li><a href="test">Twitter</a></li>
+        <li><a href="test">Instagram</a></li>
+    </ul>
+</details>
+
+------------------
+
 [![codewars](https://www.codewars.com/users/agx-r/badges/large)](https://www.codewars.com/users/agx-r)
 
 Codewars member Since 29th Jul 2023
