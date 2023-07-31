@@ -42,7 +42,7 @@ Description: The Network Mapper project is a powerful tool for network analysis 
 
 ## Where to Find Me
 
-- 📫 Reach me on Telegram: [t.me/agx-r](https://t.me/agx-r)
+- 📫 Reach me on Telegram: [t.me/agx-r](https://t.me/agx_r)
 - 🎮 Connect with me on Steam: [steamcommunity.com/id/agx-r](https://steamcommunity.com/id/agx-r)
 - 💻 Solve coding challenges together on Codewars: [codewars.com/users/agx-r](https://www.codewars.com/users/agx-r)
 
