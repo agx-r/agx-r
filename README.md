@@ -4,11 +4,8 @@
 
 <details>
     <summary>Where to find me</summary>
-    <ul>
-        <li><a href="test">Facebook</a></li>
-        <li><a href="test">Twitter</a></li>
-        <li><a href="test">Instagram</a></li>
-    </ul>
+        <li><a href="t.me/agx-r">Telegram</a></li>
+        <li><a href="steamcommunity.com/id/agx-r">Steam</a></li>
 </details>
 
 ------------------
