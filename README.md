@@ -1,4 +1,4 @@
-# 👋
+#
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73131&background=28282889&center=true&vCenter=true&width=435&lines=Hi+there+I'm+AGX)](https://git.io/typing-svg)
 
