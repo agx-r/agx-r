@@ -59,4 +59,4 @@ Codewars member since 29th Jul 2023
 
 ## GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=agx-r&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=agx-r)](https://github.com/ryo-ma/github-profile-trophy)
