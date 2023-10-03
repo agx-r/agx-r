@@ -59,4 +59,4 @@ Codewars member since 29th Jul 2023
 
 ## GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=agx-r&rank=-C,-UNKNOWN&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=agx-r&rank=-UNKNOWN,-C&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
