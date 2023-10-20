@@ -54,8 +54,8 @@ Codewars member since 29th Jul 2023
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agx-r&theme=aura_dark)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agx-r&theme=aura_dark)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agx-r&theme=aura_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=aura_dark)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=aura_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agx-r&theme=aura_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agx-r&theme=aura_dark)
 
 ## GitHub Trophies
 
