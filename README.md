@@ -10,31 +10,17 @@ Here are some of my notable projects:
 
 [![GitHub](https://img.shields.io/badge/GitHub-AGX%2FRNN--Reinforcement--Learning-blue)](https://github.com/AGX-r/RNNRL-Agent)
 
-Description: This project implements an RNN with reinforcement learning techniques in C#.
-
 ### 2. Bioinformatics Tool for DNA Sequence Analysis
 
 [![GitHub](https://img.shields.io/badge/GitHub-AGX%2Fbioinformatics--tool-green)](https://github.com/AGX-r/DNA-Analysis-Tool)
-
-Description: My bioinformatics tool performs basic analysis on DNA sequences.
 
 ### 3. PubChem API Interface for Compound Information Retrieval
 
 [![GitHub](https://img.shields.io/badge/GitHub-AGX%2Fpubchem--api--interface-orange)](https://github.com/AGX-r/PubChem-searcher)
 
-Description: This project provides a convenient interface for retrieving compound connections and information from the PubChem site using the PubChem API.
-
 ### 4. Fractal Generator
 
 [![GitHub](https://img.shields.io/badge/GitHub-AGX%2Ffractal--generator-red)](https://github.com/AGX-r/fractal-generator)
-
-Description: The fractal generator project explores the beauty of fractals.
-
-### 5. Network Mapper
-
-[![GitHub](https://img.shields.io/badge/GitHub-AGX%2Fnetwork--mapper-blueviolet)](https://github.com/AGX-r/Network-Mapper)
-
-Description: The Network Mapper project is a powerful tool for network analysis and visualization.
 
 ## Where to Find Me
 
