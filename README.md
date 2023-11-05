@@ -33,7 +33,6 @@ Here are some of my notable projects:
 ## Codewars
 
 [![codewars](https://www.codewars.com/users/agx-r/badges/large)](https://www.codewars.com/users/agx-r)
-Codewars member since 29th Jul 2023
 
 ## GitHub Summary
 
