@@ -44,4 +44,6 @@ Here are some of my notable projects:
 
 ## GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=agx-r&rank=A,S,AA,AAA,SS,SSS&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=agx-r&rank=S,AA,AAA,SS,SSS&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[[![Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Experience)](https://github.com/ryo-ma/github-profile-trophy)
+
