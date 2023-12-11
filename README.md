@@ -1,18 +1,11 @@
-#
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73131&background=28282889&center=true&vCenter=true&width=435&lines=Hi+there+I'm+AGX)](https://git.io/typing-svg)
 
 ## Where to Find Me
 
-
-- [Telegram](https://t.me/agx_r)
-- [Steam](https://steamcommunity.com/id/agx-r)
-- [Discord](https://discordapp.com/users/543470413393690643)
-
-
-## Codewars
-
-[![codewars](https://www.codewars.com/users/agx-r/badges/large)](https://www.codewars.com/users/agx-r)
+<p><a href="https://t.me/agx_r" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" /></a></p>
+<p><a href="https://github.com/agx-r" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" /></a></p>
+<p><a href="https://steamcommunity.com/id/agx-r" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=" /></a></p>
+<p><a href="https://discordapp.com/users/543470413393690643" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" /></a></p>
 
 ## GitHub Summary
 
@@ -23,7 +16,6 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agx-r&theme=aura_dark)
 
 ## GitHub Trophies
-
 
 <a href="https://github.com/agx-r"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=agx-r&title=Repositories&title=Commits&theme=radical&row=6&column=6" alt="agx-r" /></a>
 <a href="https://github.com/agx-r"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Experience&title=PullRequest&theme=radical&row=6&column=6" alt="agx-r" /></a>
