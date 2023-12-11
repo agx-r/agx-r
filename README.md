@@ -4,6 +4,8 @@
 
 ## Tech stack
 
+![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
+![LaTeX](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=008080&logo=LaTeX&logoColor=FFFFFF&label=)
 ![GNU](https://img.shields.io/static/v1?style=for-the-badge&message=GNU&color=A42E2B&logo=GNU&logoColor=FFFFFF&label=)
 ![Mongoose](https://img.shields.io/static/v1?style=for-the-badge&message=Mongoose&color=880000&logo=Mongoose&logoColor=FFFFFF&label=)
 ![Portainer](https://img.shields.io/static/v1?style=for-the-badge&message=Portainer&color=222222&logo=Portainer&logoColor=13BEF9&label=)
