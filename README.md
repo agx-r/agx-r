@@ -30,6 +30,7 @@
 ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
 ![Tor Browser](https://img.shields.io/static/v1?style=for-the-badge&message=Tor+Browser&color=7D4698&logo=Tor+Browser&logoColor=FFFFFF&label=)
 ![PyPI](https://img.shields.io/static/v1?style=for-the-badge&message=PyPI&color=3775A9&logo=PyPI&logoColor=FFFFFF&label=)
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Adobe After Effects](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+After+Effects&color=9999FF&logo=Adobe+After+Effects&logoColor=FFFFFF&label=)
 ![Tor Project](https://img.shields.io/static/v1?style=for-the-badge&message=Tor+Project&color=7D4698&logo=Tor+Project&logoColor=FFFFFF&label=)
 ![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=512BD4&logo=C%23&logoColor=FFFFFF&label=)
