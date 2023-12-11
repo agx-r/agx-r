@@ -43,7 +43,7 @@ Here are some of my notable projects:
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agx-r&theme=aura_dark)
 
 ## GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=agx-r&rank=S,AA,AAA,SS,SSS&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-[[![Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Experience&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=agx-r&title=Repositories&theme=radical)](https://github.com/agx-r)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=agx-r&title=Commits&theme=radical)](https://github.com/agx-r)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Experience&theme=radical)](https://github.com/agx-r)
 
