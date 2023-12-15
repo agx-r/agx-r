@@ -93,3 +93,4 @@
 ![Celery](https://img.shields.io/static/v1?style=for-the-badge&message=Celery&color=37814A&logo=Celery&logoColor=FFFFFF&label=)
 ![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
 ![OpenCV](https://img.shields.io/static/v1?style=for-the-badge&message=OpenCV&color=5C3EE8&logo=OpenCV&logoColor=FFFFFF&label=)
+![SymPy](https://img.shields.io/static/v1?style=for-the-badge&message=SymPy&color=3B5526&logo=SymPy&logoColor=FFFFFF&label=)
