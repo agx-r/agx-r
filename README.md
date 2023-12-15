@@ -94,3 +94,19 @@
 ![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
 ![OpenCV](https://img.shields.io/static/v1?style=for-the-badge&message=OpenCV&color=5C3EE8&logo=OpenCV&logoColor=FFFFFF&label=)
 ![SymPy](https://img.shields.io/static/v1?style=for-the-badge&message=SymPy&color=3B5526&logo=SymPy&logoColor=FFFFFF&label=)
+![Google Colab](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Colab&color=222222&logo=Google+Colab&logoColor=F9AB00&label=)
+![R](https://img.shields.io/static/v1?style=for-the-badge&message=R&color=276DC3&logo=R&logoColor=FFFFFF&label=)
+![Spyder IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Spyder+IDE&color=FF0000&logo=Spyder+IDE&logoColor=FFFFFF&label=)
+![Keras](https://img.shields.io/static/v1?style=for-the-badge&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=)
+![Plotly](https://img.shields.io/static/v1?style=for-the-badge&message=Plotly&color=3F4F75&logo=Plotly&logoColor=FFFFFF&label=)
+![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=)
+![ONNX](https://img.shields.io/static/v1?style=for-the-badge&message=ONNX&color=005CED&logo=ONNX&logoColor=FFFFFF&label=)
+![MLflow](https://img.shields.io/static/v1?style=for-the-badge&message=MLflow&color=0194E2&logo=MLflow&logoColor=FFFFFF&label=)
+![Prometheus](https://img.shields.io/static/v1?style=for-the-badge&message=Prometheus&color=E6522C&logo=Prometheus&logoColor=FFFFFF&label=)
+![spaCy](https://img.shields.io/static/v1?style=for-the-badge&message=spaCy&color=09A3D5&logo=spaCy&logoColor=FFFFFF&label=)
+![OpenAI Gym](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI+Gym&color=0081A5&logo=OpenAI+Gym&logoColor=FFFFFF&label=)
+
+
+
+
+
