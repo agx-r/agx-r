@@ -22,7 +22,7 @@
 <a href="https://github.com/agx-r"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=agx-r&title=Repositories&title=Commits&theme=radical&row=6&column=6" alt="agx-r" /></a>
 <a href="https://github.com/agx-r"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Experience&title=PullRequest&theme=radical&row=6&column=6" alt="agx-r" /></a>
 
-## Tech stack
+## Tech Stack
 
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 ![LaTeX](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=008080&logo=LaTeX&logoColor=FFFFFF&label=)
@@ -99,7 +99,7 @@
 ![Prometheus](https://img.shields.io/static/v1?style=for-the-badge&message=Prometheus&color=E6522C&logo=Prometheus&logoColor=FFFFFF&label=)
 ![spaCy](https://img.shields.io/static/v1?style=for-the-badge&message=spaCy&color=09A3D5&logo=spaCy&logoColor=FFFFFF&label=)
 ![OpenAI Gym](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI+Gym&color=0081A5&logo=OpenAI+Gym&logoColor=FFFFFF&label=)
-
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
 
 
