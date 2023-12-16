@@ -66,7 +66,6 @@
 ![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
 ![curl](https://img.shields.io/static/v1?style=for-the-badge&message=curl&color=073551&logo=curl&logoColor=FFFFFF&label=)
 ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
-![CurseForge](https://img.shields.io/static/v1?style=for-the-badge&message=CurseForge&color=F16436&logo=CurseForge&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=F46800&logo=Grafana&logoColor=FFFFFF&label=)
 ![Home Assistant](https://img.shields.io/static/v1?style=for-the-badge&message=Home+Assistant&color=222222&logo=Home+Assistant&logoColor=18BCF2&label=)
