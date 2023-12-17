@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
 
 .me {
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+  mix-blend-mode: color-dodge;
   display: block;
   margin: 2em auto;
   margin-bottom: 3em;

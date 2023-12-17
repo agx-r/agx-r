@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73131&background=28282889&center=true&vCenter=true&width=435&lines=Hi+there+I'm+AGX)](https://git.io/typing-svg)
-
 ## Where to Find Me
 
 <p><a href="https://t.me/agx_r" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" /></a></p>
