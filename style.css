@@ -52,7 +52,7 @@ a{
     position: relative;
     display: inline-block;
     padding: 25px 30px;
-    margin: 40px 0;
+    margin: 25px 30px;
     color: #ff0000;
     text-decoration: none;
     text-transform: uppercase;
@@ -161,7 +161,7 @@ a span:nth-child(4){
   --gird-height:30px;
   --line-color:#a00;
   --dot-color:#fff;
-  --dot-size:2px;
+  --dot-size:3px;
   --point-gap-width:calc(var(--gird-width) * 4);
   --point-gap-height:calc(var(--gird-height) * 4);
 }
@@ -262,18 +262,18 @@ html,body{
 
 
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 1400px) {
   .center-div {
     position: fixed;
-    top: 50%; /* Align to the top of the screen */
-    left: 50%; /* Center horizontally */
+    top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
     width: 50%;
     height: 50%;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start; /* Align items to the start (top) of the container */
-    align-items: center; /* Center items horizontally within the container */
+    justify-content: flex-start;
+    align-items: center;
   }
 
   a {
