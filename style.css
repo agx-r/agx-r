@@ -264,7 +264,7 @@ html,body{
 
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 1000px) {
   .me {
     display: none;
   }
@@ -274,8 +274,8 @@ html,body{
     top: 50%; /* Align to the top of the screen */
     left: 50%; /* Center horizontally */
     transform: translate(-50%, -50%);
-    width: 70%;
-    height: 70%;
+    width: 60%;
+    height: 60%;
     display: flex;
     flex-direction: column;
     justify-content: flex-start; /* Align items to the start (top) of the container */
