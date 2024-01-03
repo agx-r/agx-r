@@ -9,11 +9,11 @@
 
 ## GitHub Summary 
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agx-r&theme=aura_dark)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agx-r&theme=aura_dark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agx-r&theme=aura_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agx-r&theme=aura_dark)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agx-r&theme=aura_dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agx-r&theme=nord_dark)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agx-r&theme=nord_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agx-r&theme=nord_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agx-r&theme=nord_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agx-r&theme=nord_dark)
 
 ## GitHub Trophies
 
