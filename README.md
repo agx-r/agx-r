@@ -1,5 +1,7 @@
+# Links 
+
 <details>
-<summary># Links</summary>
+<summary>Click to expand</summary>
 <p><a href="https://t.me/agx_r" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" /></a></p>
 <p><a href="https://github.com/agx-r" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" /></a></p>
 <p><a href="https://steamcommunity.com/id/agx-r" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=" /></a></p>
