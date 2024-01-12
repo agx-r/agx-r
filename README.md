@@ -98,6 +98,8 @@
 ![OpenAI Gym](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI+Gym&color=0081A5&logo=OpenAI+Gym&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
+![gitignore.io](https://img.shields.io/static/v1?style=for-the-badge&message=gitignore.io&color=204ECF&logo=gitignore.io&logoColor=FFFFFF&label=)
+![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)
 
 
 
