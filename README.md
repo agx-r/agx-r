@@ -1,12 +1,12 @@
 # Links 
 
-<details>
-<summary>Click to expand</summary>
 <p><a href="https://t.me/agx_r" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" /></a></p>
+<p><a href="https://gitlab.com/agx-r" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=" /></a></p>
+<details>
+<summary>More</summary>
 <p><a href="https://github.com/agx-r" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" /></a></p>
 <p><a href="https://steamcommunity.com/id/agx-r" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=" /></a></p>
 <p><a href="https://discordapp.com/users/543470413393690643" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" /></a></p>
-<p><a href="https://gitlab.com/agx-r" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=" /></a></p>
 <p><a href="https://bastyon.com/agxr" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Bastyon&color=00A4FF&logo=Bastyon&logoColor=FFFFFF&label=" /></a></p>
 </details>
 
