@@ -1,3 +1,5 @@
+![image](https://www.codewars.com/users/agx-r/badges/large)
+
 # Links 
 
 <details>
@@ -22,7 +24,6 @@
 
 <a href="https://github.com/agx-r"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=agx-r&title=Repositories&title=Commits&theme=nord&row=6&column=6" alt="agx-r" /></a>
 <a href="https://github.com/agx-r"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=agx&title=Experience&title=PullRequest&theme=nord&row=6&column=6" alt="agx-r" /></a>
-![image](https://www.codewars.com/users/agx-r/badges/large)
 
 ## Tech Stack
 
