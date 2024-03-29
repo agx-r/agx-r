@@ -13,7 +13,7 @@
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agx-r&theme=radical)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agx-r&theme=radical)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agx-r&theme=radical)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agx-r&theme=aura_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agx-r&theme=radical)
 
 ## GitHub Trophies
 
