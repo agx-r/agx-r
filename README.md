@@ -17,8 +17,8 @@
 
 ## GitHub Trophies
 
-<a href="https://github.com/agx-r"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=agx-r&title=Repositories&title=Commits&theme=radical&row=6&column=6&no-frame=true" alt="agx-r" /></a>
-<a href="https://github.com/agx-r"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=agx&title=Experience&title=PullRequest&theme=radical&row=6&column=6&no-frame=true" alt="agx-r" /></a>
+<a href="https://github.com/agx-r"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=agx-r&title=Repositories&title=Commits&theme=dracula&row=6&column=6&no-frame=true" alt="agx-r" /></a>
+<a href="https://github.com/agx-r"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=agx&title=Experience&title=PullRequest&theme=dracula&row=6&column=6&no-frame=true" alt="agx-r" /></a>
 
 ## Programming Languages
 
