@@ -87,3 +87,7 @@
 [![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)](https://discordapp.com/users/543470413393690643)
 [![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)](https://gitlab.com/agx-r)
 [![Bastyon](https://img.shields.io/static/v1?style=for-the-badge&message=Bastyon&color=00A4FF&logo=Bastyon&logoColor=FFFFFF&label=)](https://bastyon.com/agxr)
+
+---
+
+Feel free to reach out to me via [email](aganowsecond@gmail.com) for collaborations or if you have any questions!
