@@ -8,8 +8,8 @@
 
 ## GitHub Trophies
 
-<a href="https://github.com/agx-r"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=agx-r&title=Repositories&title=Commits&theme=dracula&row=6&column=6&no-frame=true" alt="agx-r" /></a>
-<a href="https://github.com/agx-r"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=agx&title=Experience&title=PullRequest&theme=dracula&row=6&column=6&no-frame=true" alt="agx-r" /></a>
+[![Repositories](https://github-profile-trophy.vercel.app/?username=agx-r&title=Repositories&title=Commits&theme=dracula&row=6&column=6&no-frame=true)](https://github.com/agx-r)
+[![Experience](https://github-profile-trophy.vercel.app/?username=agx&title=Experience&title=PullRequest&theme=dracula&row=6&column=6&no-frame=true)](https://github.com/agx-r)
 
 ## Programming Languages
 
@@ -81,9 +81,9 @@
 
 ## Where to Find Me
 
-<p><a href="https://t.me/agx_r" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" /></a></p>
-<p><a href="https://github.com/agx-r" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" /></a></p>
-<p><a href="https://steamcommunity.com/id/agx-r" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=" /></a></p>
-<p><a href="https://discordapp.com/users/543470413393690643" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" /></a></p>
-<p><a href="https://gitlab.com/agx-r" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=" /></a></p>
-<p><a href="https://bastyon.com/agxr" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Bastyon&color=00A4FF&logo=Bastyon&logoColor=FFFFFF&label=" /></a></p>
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/agx_r)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/agx-r)
+[![Steam](https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=)](https://steamcommunity.com/id/agx-r)
+[![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)](https://discordapp.com/users/543470413393690643)
+[![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)](https://gitlab.com/agx-r)
+[![Bastyon](https://img.shields.io/static/v1?style=for-the-badge&message=Bastyon&color=00A4FF&logo=Bastyon&logoColor=FFFFFF&label=)](https://bastyon.com/agxr)
